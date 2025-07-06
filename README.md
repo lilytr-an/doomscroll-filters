@@ -25,22 +25,18 @@ a progressive web app (PWA) is a type of web application designed to offer a mor
 
 ### instagram
 
-```
 restricts visibility of the main feed (stories, posts), explore page, reels page, posting, suggested accounts and instagram notes. messaging and notifications are kept!
-```
 
-**on mobile**: https://raw.githubusercontent.com/lilytr-an/anti-doomscroll-filters/refs/heads/main/lists/InstagramMobile.txt
+**on mobile**: `https://raw.githubusercontent.com/lilytr-an/doomscroll-filters/refs/heads/main/lists/InstagramMobile.txt`
 
-**on desktop**: https://raw.githubusercontent.com/lilytr-an/anti-doomscroll-filters/refs/heads/main/lists/InstagramDesktop.txt
+**on desktop**: `https://raw.githubusercontent.com/lilytr-an/doomscroll-filters/refs/heads/main/lists/InstagramDesktop.txt`
 
 ---
 
 ### reddit
 
-```
 strips EVERYTHING from the site except for individual posts and account information (posts, comments etc...). reddit can only be used for viewing a single post and comments, both the main feed (reddit.com) and subreddit feeds are blank to prevent mindless scrolling.
-```
 
-**on mobile**: https://raw.githubusercontent.com/lilytr-an/anti-doomscroll-filters/refs/heads/main/lists/RedditMobile.txt
+**on mobile**: `https://raw.githubusercontent.com/lilytr-an/doomscroll-filters/refs/heads/main/lists/RedditMobile.txt`
 
-**on desktop**: https://raw.githubusercontent.com/lilytr-an/anti-doomscroll-filters/refs/heads/main/lists/RedditDesktop.txt
+**on desktop**: `https://raw.githubusercontent.com/lilytr-an/doomscroll-filters/refs/heads/main/lists/RedditDesktop.txt`

@@ -1,4 +1,6 @@
+! Title: Anti-Reddit (Mobile)
 ! Description: This list filters out all content on Reddit (post feed, search bar, etc...) except for the content of a single Reddit post (i.e: Reddit is only usable if the user is viewing a single post, rather than a subreddit or the main feed)
+! Source: https://github.com/lilytr-an/anti-doomscroll-filters
 
 www.reddit.com##.flex.items-center.flex-1.justify-end.relative
 www.reddit.com###navbar-menu-button

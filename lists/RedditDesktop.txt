@@ -3,7 +3,7 @@
 ! Source: https://github.com/lilytr-an/anti-doomscroll-filters
 
 www.reddit.com##.h-\[40px\].flex-1.py-xs.flex.justify-stretch
-www.reddit.com##.pl-lg.gap-xs.flex.items-center.justify-end
+www.reddit.com##.ps-lg.gap-xs.flex.items-center.justify-end
 www.reddit.com###navbar-menu-button
 www.reddit.com##.masthead.w-full
 www.reddit.com##.main-container.gap-lg.w-full.flex-1.grid.place-content-between.grid-cols-\[minmax\(0\,1fr\)\].fixed-sidebar.s\:\[\&\.fixed-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_minmax\(0\,316px\)\].s\:\[\&\.flex-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_auto\]
